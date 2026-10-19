@@ -2,8 +2,8 @@
 
 各系统怎么装进输入法列表，写在对应的系统页，不写在这里。
 
-- [macOS](/macos)：从 [下载](/download) 拿到 DMG，拖进「应用程序」，再到系统设置里启用。
-- [iOS](/ios)：在系统键盘列表里添加，造词和同步要开完全访问。
+- [macOS](/macos)：从 [macOS 下载地址](https://github.com/KyleBing/wubi86-rime-macos-ime-docs/releases/tag/macOS) 拿到 DMG，拖进「应用程序」，再到系统设置里启用。
+- [iOS](/ios)：在 [App Store](https://apps.apple.com/cn/search?term=玫枫五笔) 搜索「玫枫五笔」，再在系统键盘列表里添加。造词和同步要开完全访问。
 
 切换到玫枫五笔之后，打法是同一套 `wubi86_jidian`。
 

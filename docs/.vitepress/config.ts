@@ -45,7 +45,7 @@ export default defineConfig({
           text: 'macOS',
           items: [
             { text: '安装', link: '/macos' },
-            { text: '下载', link: '/download' },
+            { text: '下载', link: 'https://github.com/KyleBing/wubi86-rime-macos-ime-docs/releases/tag/macOS' },
             { text: '外观', link: '/guide/appearance' }
           ]
         }

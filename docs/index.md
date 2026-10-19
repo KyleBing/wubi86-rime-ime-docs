@@ -27,10 +27,10 @@ features:
     details: 仿系统键盘。字母、数字、符号三页。造词和词库要开完全访问。
     link: /ios
   - title: Windows
-    details: 后续版本。方案仍是 wubi86_jidian，安装包随后放在下载页。
+    details: 方案仍是 wubi86_jidian。安装包在 Windows 下载地址。
     link: /windows
   - title: Android
-    details: 可能会做。如果做，也是同一套方案和同一批共用能力。
+    details: 方案仍是 wubi86_jidian。安装包在 Android 下载地址。
     link: /android
 ---
 
