@@ -30,7 +30,9 @@
 
 ## 下载
 
-当前版本是 1.0.2。安装包在 [macOS 下载地址](https://github.com/KyleBing/wubi86-rime-macos-ime-docs/releases/tag/macOS)。
+[macOS 下载地址](https://github.com/KyleBing/wubi86-rime-macos-ime-docs/releases/tag/macOS)
+
+## 更新
 
 ### 1.0.2 `2026-10-09`
 
