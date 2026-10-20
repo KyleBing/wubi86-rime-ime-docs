@@ -10,6 +10,10 @@
 
 方案 id 是 `wubi86_jidian`，码表是 86 极点。不另做一套编码，也不靠 Lua 改候选。四码唯一时自动上屏，`date` 这种多项候选不会自动上。
 
+### 调整词序
+
+同编码下的词可以改顺序，各端都可以拖动排序。macOS 是 Option + Command + 0，Windows 是 Alt + Ctrl + 0。iOS 和 Android 在输入界面有对应按钮。见 [快捷键](/guide/shortcuts#调整词序)。
+
 ### 快捷键自造词
 
 不用打开词库文件再部署。编码规则各端相同，见 [自造词](/guide/custom-words)。Mac 上默认是 Control + Option + N；iOS 在键盘里直接造。选中的文字或刚上屏的词会填进去，写完马上能打。
