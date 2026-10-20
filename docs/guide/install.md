@@ -3,7 +3,8 @@
 各系统怎么装进输入法列表，写在对应的系统页，不写在这里。
 
 - [macOS](/macos)：从 [macOS 下载地址](https://github.com/KyleBing/wubi86-rime-macos-ime-docs/releases/tag/macOS) 拿到 DMG，拖进「应用程序」，再到系统设置里启用。
-- [iOS](/ios)：在 [App Store](https://apps.apple.com/cn/search?term=玫枫五笔) 搜索「玫枫五笔」，再在系统键盘列表里添加。造词和同步要开完全访问。
+- [Windows](/windows)：从 [Windows 下载地址](https://github.com/KyleBing/wubi86-rime-macos-ime-docs/releases/tag/Windows) 拿到安装包。
+- [iOS](/ios) 和 [Android](/android) 还在开发，暂不能下载。
 
 切换到玫枫五笔之后，打法是同一套 `wubi86_jidian`。
 
