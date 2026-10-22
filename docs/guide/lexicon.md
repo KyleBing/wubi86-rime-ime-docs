@@ -10,7 +10,7 @@ iOS 在主 App 里管理这些分组。Mac 的界面见文末。
 
 ## 和手机、码表助手同步
 
-登录 portal 账号，和码表助手、iOS、Mac 是同一个账号。默认地址是 `https://kylebing.cn/wubi/`。
+登录 portal 账号，和码表助手、iOS、Mac 是同一个账号。默认地址是 `https://kylebing.cn/wubi/portal/`。
 
 登录之后可以：
 

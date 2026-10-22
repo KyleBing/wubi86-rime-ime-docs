@@ -1,6 +1,6 @@
 # macOS
 
-系统输入法，候选不抢当前窗口。版本 **1.0.4**。用 InputMethodKit 跑同一套 `wubi86_jidian`。编码以下划线留在插入点，候选是一块不激活的浮窗。各端相同的打法见 [开始输入](/guide/install)，造词、同步和日期见 [痛点解决](/pain)。
+系统输入法，候选不抢当前窗口。版本 **1.1.0**。用 InputMethodKit 跑同一套 `wubi86_jidian`。编码以下划线留在插入点，候选是一块不激活的浮窗。各端相同的打法见 [开始输入](/guide/install)，造词、同步和日期见 [痛点解决](/pain)。
 
 <TypingDemo />
 
@@ -38,6 +38,10 @@
 源码开放，仓库是 [KyleBing/wubi86-rime-ime-macos](https://github.com/KyleBing/wubi86-rime-ime-macos)。安装包、版本记录和问题反馈都在那里。
 
 ## 更新
+
+### 1.1.0 `2026-10-22`
+
+云端同步默认地址改为 `https://kylebing.cn/wubi/portal/`，`/wubi/` 现在留给文档站。账号注册入口是 `https://kylebing.cn/wubi/manager/#/register`。
 
 ### 1.0.4 `2026-10-22`
 

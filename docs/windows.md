@@ -1,6 +1,6 @@
 # Windows
 
-方案仍是 `wubi86_jidian`，编码和 Mac、iOS 相同。造词、自动同步、标点和日期见 [痛点解决](/pain)。界面按 Windows 输入法来做。版本 **1.0.2**。
+方案仍是 `wubi86_jidian`，编码和 Mac、iOS 相同。造词、自动同步、标点和日期见 [痛点解决](/pain)。界面按 Windows 输入法来做。版本 **1.1.0**。
 
 ## Windows 上的做法
 
@@ -19,6 +19,10 @@
 可以先看 [macOS](/macos)。
 
 ## 更新
+
+### 1.1.0 `2026-10-22`
+
+云端同步默认地址改为 `https://kylebing.cn/wubi/portal/`，`/wubi/` 现在留给文档站。账号注册入口是 `https://kylebing.cn/wubi/manager/#/register`。
 
 ### 1.0.2 `2026-10-22`
 
