@@ -1,9 +1,27 @@
 # Windows
 
-方案仍是 `wubi86_jidian`，编码和 Mac、iOS 相同。造词、自动同步、标点和日期见 [痛点解决](/pain)。界面按 Windows 输入法来做。
+方案仍是 `wubi86_jidian`，编码和 Mac、iOS 相同。造词、自动同步、标点和日期见 [痛点解决](/pain)。界面按 Windows 输入法来做。版本 **1.0.2**。
 
-调整词序用 **Alt + Ctrl + 0**，也可以拖动排序。见 [调整词序](/guide/shortcuts#调整词序)。
+## Windows 上的做法
 
-安装包在 [Windows 下载地址](https://github.com/KyleBing/wubi86-rime-macos-ime-docs/releases/tag/Windows)。
+- **TSF 文本服务 + 常驻服务进程。** 按键由很薄的 TSF DLL 转发给常驻的 `MeifengWubi.exe`，librime 只在服务进程里加载一份。部署、词库重载和云同步都不会打断当前程序。
+- **候选不抢焦点。** 候选窗是不激活的浮窗，跟着光标走。水平或垂直排列、明暗两套颜色跟着系统外观。
+- **模式提示。** 聚焦输入框或切换中英时，光标旁短暂显示「中文」或「英文」。开启大写锁定时改为显示「大写」，样式相同。
+- **设置分页。** 「输入习惯」页放空码清空、回车清码、翻页键、二三候选、光标提示、造词和排序快捷键；「外观配置」页放候选样式、颜色和每页候选数。
+- **调整词序。** 默认 **Ctrl + Alt + 0**，也可以在「输入习惯」页的「排序」里改成别的组合键，或者直接拖动排序。见 [调整词序](/guide/shortcuts#调整词序)。
+
+安装包在 [Windows 下载地址](https://github.com/KyleBing/wubi86-rime-ime-windows/releases/latest/download/MeifengWubi-Windows-setup.exe)。
+
+源码开放，仓库是 [KyleBing/wubi86-rime-ime-windows](https://github.com/KyleBing/wubi86-rime-ime-windows)。安装包、版本记录和问题反馈都在那里。
 
 可以先看 [macOS](/macos)。
+
+## 更新
+
+### 1.0.2 `2026-10-22`
+
+模式提示增加「大写」，开启大写锁定时优先显示。修复「每页候选数」改了不生效：写入 `default.custom.yaml` 时只更新候选数与按键段，其他自定义原样保留。「输入习惯」页新增「排序」快捷键（默认 Ctrl + Alt + 0），可单独修改；新增「空码清空」「回车清码」开关。移除 5 码顶屏设置。
+
+### 1.0.1 `2026-10-19`
+
+首个公开版本：TSF 文本服务 + 常驻服务进程，编码与 macOS、iOS 相同。自造词与分组、删除候选、拖动排序、云同步、扩展词库、标点改键、日期时间候选、皮肤编辑与分享。

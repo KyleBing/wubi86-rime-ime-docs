@@ -1,13 +1,13 @@
 {
   "name": "玫枫五笔",
   "platform": "macos",
-  "version": "1.0.2",
-  "date": "2026-10-09",
-  "file": "download/MeifengWubi-1.0.2.dmg",
-  "url": "https://github.com/KyleBing/wubi86-rime-macos-ime-docs/raw/main/download/MeifengWubi-1.0.2.dmg",
-  "filename": "玫枫五笔-1.0.2.dmg",
-  "bytes": 13772862,
-  "sha256": "ae229d47c37f1f199e65e25f832c59623baabc775132386fa7014b93543cb8e2",
+  "version": "1.0.4",
+  "date": "2026-10-22",
+  "file": "download/MeifengWubi-macOS.dmg",
+  "url": "https://github.com/KyleBing/wubi86-rime-ime-macos/releases/latest/download/MeifengWubi-macOS.dmg",
+  "filename": "MeifengWubi-macOS.dmg",
+  "bytes": 13913088,
+  "sha256": "ff619e5bc94becf386787f7cd172bbdbc174f8441f19b2888df7a90730aca429",
   "requires": "macOS 13 及以上",
   "arch": "Apple 芯片与 Intel"
 }
