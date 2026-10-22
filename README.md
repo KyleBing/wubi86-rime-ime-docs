@@ -26,3 +26,6 @@ npm run docs:dev
 ```
 
 脚本会构建站点并放到 `https://kylebing.cn/wubi/`，同时删掉旧的 `/var/www/html/wubi/macos`。
+
+安装包和更新清单都不放在本站：所有下载内容只在各输入法仓库的 Releases 里，
+页面上的链接直接指向 `releases/latest/download/...`。站点只托管说明文字和图片。

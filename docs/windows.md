@@ -12,6 +12,8 @@
 
 安装包在 [Windows 下载地址](https://github.com/KyleBing/wubi86-rime-ime-windows/releases/latest/download/MeifengWubi-Windows-setup.exe)。
 
+打开设置里的「帮助」，最上面的「版本与更新」可以手动检查，也会在启动后静默检查一次（24 小时内不重复）。发现新版本后点「下载并安装」：安装包会先校验 SHA-256，再静默运行安装程序。过程中需要一次管理员确认，输入法会先退出，装好后再启动；被其他程序占用的 TSF 文件可能要到注销后才替换完成。
+
 源码开放，仓库是 [KyleBing/wubi86-rime-ime-windows](https://github.com/KyleBing/wubi86-rime-ime-windows)。安装包、版本记录和问题反馈都在那里。
 
 可以先看 [macOS](/macos)。

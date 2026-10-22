@@ -29,6 +29,8 @@
 
 装好之后单独按一下 Shift，确认是中文模式，然后按 [开始输入](/guide/install) 里的方式打。macOS 按键见 [快捷键](/guide/shortcuts#macos)，候选外观见 [外观](/guide/appearance)。
 
+主窗口的「程序更新」可以检查新版本。正式包接入 Sparkle，有更新会自己下载并重启；没有配置自动更新时，按钮会打开下载页。更新宿主后如果输入法组件也是新版，窗口会提示点「安装 / 更新输入法」应用。
+
 ## 下载
 
 [下载 macOS 版](https://github.com/KyleBing/wubi86-rime-ime-macos/releases/latest/download/MeifengWubi-macOS.dmg)
