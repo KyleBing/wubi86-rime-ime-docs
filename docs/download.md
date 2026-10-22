@@ -1,8 +1,8 @@
 # 下载
 
-目前可以下载的是 macOS 和 Windows。iOS 和 Android 还在开发，暂不提供下载。
+输入法目前可以下载的是 macOS 和 Windows。iOS 和 Android 还在开发，暂不提供下载。
 
-两个链接都指向各自仓库的最新正式版，地址固定，发新版本时只会换里面的安装包。安装包和更新清单都只放在 GitHub Releases，本站和其他服务器不托管任何安装文件。
+链接都指向各自仓库的最新正式版，地址固定，发新版本时只会换里面的安装包。安装包和更新清单都只放在 GitHub Releases，本站和其他服务器不托管任何安装文件。
 
 ## macOS
 
@@ -16,12 +16,19 @@
 
 需要 Windows 10 / 11 x64。装法与版本记录见 [Windows](/windows)。
 
+## 五笔码表助手
+
+[下载五笔码表助手](https://github.com/KyleBing/wubi-dict-editor/releases/latest)
+
+编辑五笔码表的桌面工具，支持 macOS、Windows、Linux。安装包在 Releases 页面，按系统选对应文件即可。
+
 ## 版本记录
 
 各版本的改动写在对应仓库的 Release 标题和说明里，也可以看仓库里的 `CHANGELOG.md`：
 
 - [macOS 版本记录](https://github.com/KyleBing/wubi86-rime-ime-macos/releases)
 - [Windows 版本记录](https://github.com/KyleBing/wubi86-rime-ime-windows/releases)
+- [五笔码表助手 版本记录](https://github.com/KyleBing/wubi-dict-editor/releases)
 
 ## 源码
 
