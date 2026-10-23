@@ -20,13 +20,13 @@ hero:
       link: /guide/install
 
 features:
-  - title: macOS 1.1.0
+  - title: macOS 1.1.1
     details: 系统输入法。候选条不抢焦点，编码以下划线留在插入点。可下载。
     link: /macos
   - title: iOS
     details: 还在开发，暂不能下载。
     link: /ios
-  - title: Windows
+  - title: Windows 1.1.2
     details: 方案仍是 wubi86_jidian。安装包在 Windows 下载地址。可下载。
     link: /windows
   - title: Android
