@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme'
 import Figure from './Figure.vue'
 import TypingDemo from './TypingDemo.vue'
+import SyncScopeDemo from './SyncScopeDemo.vue'
 import './custom.css'
 
 export default {
@@ -8,5 +9,6 @@ export default {
   enhanceApp({ app }) {
     app.component('Figure', Figure)
     app.component('TypingDemo', TypingDemo)
+    app.component('SyncScopeDemo', SyncScopeDemo)
   }
 }

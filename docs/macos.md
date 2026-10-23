@@ -1,6 +1,6 @@
 # macOS
 
-系统输入法，候选不抢当前窗口。版本 **1.1.0**。用 InputMethodKit 跑同一套 `wubi86_jidian`。编码以下划线留在插入点，候选是一块不激活的浮窗。各端相同的打法见 [开始输入](/guide/install)，造词、同步和日期见 [痛点解决](/pain)。
+系统输入法，候选不抢当前窗口。版本 **1.1.0**。用 InputMethodKit 跑同一套 `wubi86_jidian`。编码以下划线留在插入点，候选是一块不激活的浮窗。各端相同的打法见 [开始输入](/guide/install)，造词和日期见 [痛点解决](/pain)，个人词同步见 [词库与同步](/guide/lexicon)。
 
 <TypingDemo />
 
