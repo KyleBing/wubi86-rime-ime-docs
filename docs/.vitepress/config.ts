@@ -27,7 +27,8 @@ export default defineConfig({
       { text: 'Windows', link: '/windows' },
       { text: 'Android', link: '/android' },
       { text: '痛点解决', link: '/pain' },
-      { text: '使用说明', link: '/guide/install' }
+      { text: '使用说明', link: '/guide/install' },
+      { text: '玫枫跟打器', link: 'https://kylebing.cn/tools/typepad/', target: '_blank', rel: 'noopener' }
     ],
     sidebar: {
       '/guide/': [
