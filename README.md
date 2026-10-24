@@ -10,7 +10,7 @@
 | `docs/windows.md` | Windows 后续版本 |
 | `docs/android.md` | Android 可能会做 |
 | `docs/pain.md` | 各端都会有的造词、同步、标点和日期 |
-| `docs/guide/` | 从 macOS 输入法仓库迁来的使用说明 |
+| `docs/guide/` | 从 macOS 输入法仓库迁来的使用说明（含 [注册与付费](docs/guide/register.md)） |
 
 ```bash
 npm install

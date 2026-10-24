@@ -26,3 +26,11 @@
 .vp-doc kbd {
   font-family: ui-monospace, "SF Mono", Menlo, monospace;
 }
+
+/* macOS / Windows 页「更新」各版本下的说明正文 */
+.vp-doc .release-log p {
+  margin: 0.25rem 0 1.25rem;
+  font-size: 0.875rem;
+  line-height: 1.65;
+  color: var(--vp-c-text-2);
+}

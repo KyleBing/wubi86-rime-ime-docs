@@ -39,7 +39,8 @@ export default defineConfig({
             { text: '自造词', link: '/guide/custom-words' },
             { text: '日期与时间', link: '/guide/date-time' },
             { text: '快捷键', link: '/guide/shortcuts' },
-            { text: '词库与同步', link: '/guide/lexicon' }
+            { text: '词库与同步', link: '/guide/lexicon' },
+            { text: '注册与付费', link: '/guide/register' }
           ]
         },
         {

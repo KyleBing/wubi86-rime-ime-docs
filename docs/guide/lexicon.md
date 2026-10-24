@@ -70,7 +70,7 @@ iOS 在主 App 里管理这些分组。Mac 的界面见文末。
 https://kylebing.cn/wubi/portal/
 ```
 
-注册与管理后台：`https://kylebing.cn/wubi/manager/#/register`。说明站在 `/wubi/`，不要把说明站地址当成接口前缀。
+注册与管理后台：`https://kylebing.cn/wubi/manager/#/register`。邀请码需先在 [注册与付费](/guide/register) 中按流程申请。说明站在 `/wubi/`，不要把说明站地址当成接口前缀。
 
 ## 在 macOS 的设置里
 
