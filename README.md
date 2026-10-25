@@ -5,7 +5,7 @@
 | 页面 | 内容 |
 | --- | --- |
 | `docs/index.md` | 首页和打字示意 |
-| `docs/macos.md` | macOS 输入法与 1.1.1 安装包 |
+| `docs/macos.md` | macOS 输入法与版本说明 |
 | `docs/ios.md` | iOS 键盘 |
 | `docs/windows.md` | Windows 后续版本 |
 | `docs/android.md` | Android 可能会做 |
