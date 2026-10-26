@@ -87,4 +87,4 @@ https://kylebing.cn/wubi/portal/
 使用问题、建议或词库错误：
 
 - 邮箱 [kylebing@163.com](mailto:kylebing@163.com)
-- QQ 群 `878750538`
+- QQ 群 `1064664481`
