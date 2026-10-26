@@ -37,4 +37,3 @@
 注册审核、付款核对或同步问题：
 
 - 邮箱 [kylebing@163.com](mailto:kylebing@163.com)
-- QQ 群 `878750538`
