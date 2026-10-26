@@ -59,7 +59,7 @@ export default defineConfig({
     search: { provider: 'local' },
     footer: {
       message: '方案 <a href="https://github.com/KyleBing/rime-wubi86-jidian">rime-wubi86-jidian</a> · 引擎 <a href="https://github.com/rime/librime">librime</a>',
-      copyright: '玫枫五笔 · <a href="mailto:kylebing@163.com">kylebing@163.com</a> · QQ 群 1064664481'
+      copyright: '玫枫五笔 · <a href="mailto:kylebing@163.com">kylebing@163.com</a> · QQ 群 <a href="https://qm.qq.com/q/diB60IDijm">1064664481</a>'
     }
   }
 })
