@@ -5,7 +5,7 @@
 - [macOS](/macos)：从 [macOS 下载地址](https://github.com/KyleBing/wubi86-rime-ime-macos/releases/latest/download/MeifengWubi-macOS.dmg) 拿到 DMG，拖进「应用程序」，再到系统设置里启用。
 - [Windows](/windows)：从 [Windows 下载地址](https://github.com/KyleBing/wubi86-rime-ime-windows/releases/latest/download/MeifengWubi-Windows-setup.exe) 拿到安装包。
 - [Android](/android)：从 [Android 下载地址](https://github.com/KyleBing/wubi86-rime-ime-android/releases/latest/download/MeifengWubi-Android.apk) 拿到 APK，安装后在系统输入法列表里启用。
-- [iOS](/ios) 还在开发，暂不能下载。
+- [iOS](/ios)：通过 [TestFlight](https://testflight.apple.com/join/ypJ1C4f9) 安装测试版，再到系统设置里添加键盘。
 
 切换到玫枫五笔之后，打法是同一套 `wubi86_jidian`。
 

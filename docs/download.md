@@ -1,6 +1,6 @@
 # 下载
 
-输入法目前可以下载的是 macOS、Windows 和 Android。iOS 还在开发，暂不提供下载。
+输入法目前可以下载的是 macOS、Windows 和 Android；iOS 可通过 TestFlight 参加公测，App Store 正式版尚未上架。
 
 链接都指向各自仓库的最新正式版，地址固定，发新版本时只会换里面的安装包。安装包和更新清单都只放在 GitHub Releases，本站和其他服务器不托管任何安装文件。
 
@@ -47,4 +47,6 @@
 
 ## iOS
 
-还在开发，暂不能下载。说明见 [iOS](/ios)。
+[通过 TestFlight 加入测试](https://testflight.apple.com/join/ypJ1C4f9)
+
+需要先安装 TestFlight，再打开上述链接接受邀请。装法与说明见 [iOS](/ios)。App Store 正式版尚未上架。

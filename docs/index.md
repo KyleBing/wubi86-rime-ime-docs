@@ -24,7 +24,7 @@ features:
     details: 系统输入法。候选条不抢焦点，编码以下划线留在插入点。可下载。
     link: /macos
   - title: iOS
-    details: 还在开发，暂不能下载。
+    details: TestFlight 公测中。App Store 正式版尚未上架。
     link: /ios
   - title: Windows 1.1.5
     details: 方案仍是 wubi86_jidian。安装包在 Windows 下载地址。可下载。
