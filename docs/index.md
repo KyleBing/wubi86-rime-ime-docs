@@ -20,7 +20,7 @@ hero:
       link: /guide/install
 
 features:
-  - title: macOS 1.1.7
+  - title: macOS 1.1.8
     details: 系统输入法。候选条不抢焦点，编码以下划线留在插入点。可下载。
     link: /macos
   - title: iOS
