@@ -1,8 +1,8 @@
 # 痛点解决
 
-这一页写各端都会有的能力，不写某个系统怎么摆候选、怎么安装。macOS、iOS，以及以后的 Windows、Android，输入引擎都是 librime，方案都是 [rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)。
+这一页写各端都会有的能力，不写某个系统怎么摆候选、怎么安装。macOS、Windows、iOS、Android 方案都是 [rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian)。桌面端用 librime；Android 用同源码表引擎，避免键盘进程体积超限。
 
-<TypingDemo />
+<TypingDemo scene="type" />
 
 ## 都会有的功能
 

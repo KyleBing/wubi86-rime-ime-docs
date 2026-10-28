@@ -34,3 +34,77 @@
   line-height: 1.65;
   color: var(--vp-c-text-2);
 }
+
+/* macOS「简约黑白」候选条：打字示意与日期时间预览共用 */
+.mac-cand-bar {
+  position: absolute;
+  left: 0;
+  top: calc(100% + 4px);
+  z-index: 3;
+  display: inline-flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 3px;
+  box-sizing: border-box;
+  padding: 3px 5px;
+  border-radius: 7px;
+  background: #fff;
+  border: 0.5px solid rgba(0, 0, 0, 0.16);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.28);
+  color: rgb(72, 72, 81);
+  font-family: -apple-system, "PingFang SC", sans-serif;
+  white-space: nowrap;
+}
+.mac-cand-wait {
+  font-size: 18px;
+  color: rgb(97, 97, 107);
+  letter-spacing: 0.06em;
+  padding: 1px 3px;
+}
+.mac-cand-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 1px 3px;
+  border-radius: 5px;
+  line-height: 1.35;
+  background: #fff;
+}
+.mac-cand-item.on {
+  background: #fff;
+  color: #000;
+}
+.mac-cand-item .idx {
+  font-size: 11px;
+  font-weight: 300;
+  color: rgb(97, 97, 107);
+}
+.mac-cand-item.on .idx { color: rgba(62, 63, 63, 0.695); }
+.mac-cand-item .word { font-size: 18px; font-weight: 400; }
+.mac-cand-item.on .word { font-weight: 400; color: #000; }
+.mac-cand-item .code {
+  font-size: 12px;
+  margin-left: 4px;
+  color: rgb(157, 157, 157);
+}
+.mac-cand-item.on .code { color: rgb(83, 83, 83); }
+.mac-cand-item .comment {
+  font-size: 11px;
+  margin-left: 4px;
+  color: #8cc555;
+}
+
+html.dark .mac-cand-bar {
+  background: rgba(35, 35, 35, 0.94);
+  border-color: rgba(255, 255, 255, 0.18);
+  box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.58);
+  color: rgb(229, 229, 234);
+}
+html.dark .mac-cand-item { background: rgb(36, 36, 36); }
+html.dark .mac-cand-item.on { background: rgb(36, 36, 36); color: #fff; }
+html.dark .mac-cand-item .idx { color: rgb(173, 173, 184); }
+html.dark .mac-cand-item.on .idx { color: rgba(255, 255, 255, 0.68); }
+html.dark .mac-cand-item.on .word { color: #fff; }
+html.dark .mac-cand-item .code { color: rgb(188, 188, 188); }
+html.dark .mac-cand-item.on .code { color: rgb(190, 190, 190); }
+html.dark .mac-cand-wait { color: rgb(173, 173, 184); }

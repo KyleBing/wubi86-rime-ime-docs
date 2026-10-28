@@ -1,6 +1,6 @@
 # 下载
 
-输入法目前可以下载的是 macOS 和 Windows。iOS 和 Android 还在开发，暂不提供下载。
+输入法目前可以下载的是 macOS、Windows 和 Android。iOS 还在开发，暂不提供下载。
 
 链接都指向各自仓库的最新正式版，地址固定，发新版本时只会换里面的安装包。安装包和更新清单都只放在 GitHub Releases，本站和其他服务器不托管任何安装文件。
 
@@ -16,6 +16,12 @@
 
 需要 Windows 10 / 11 x64。装法与版本记录见 [Windows](/windows)。
 
+## Android
+
+[下载 Android 版](https://github.com/KyleBing/wubi86-rime-ime-android/releases/latest/download/MeifengWubi-Android.apk)
+
+需要 Android 8.0 及以上。装法与版本记录见 [Android](/android)。
+
 ## 五笔码表助手
 
 [下载五笔码表助手](https://github.com/KyleBing/wubi-dict-editor/releases/latest)
@@ -28,19 +34,17 @@
 
 - [macOS 版本记录](https://github.com/KyleBing/wubi86-rime-ime-macos/releases)
 - [Windows 版本记录](https://github.com/KyleBing/wubi86-rime-ime-windows/releases)
+- [Android 版本记录](https://github.com/KyleBing/wubi86-rime-ime-android/releases)
 - [五笔码表助手 版本记录](https://github.com/KyleBing/wubi-dict-editor/releases)
 
 ## 源码
 
-两个输入法都开源，代码、问题和讨论在各自仓库：
+输入法都开源，代码、问题和讨论在各自仓库：
 
 - [macOS 源码](https://github.com/KyleBing/wubi86-rime-ime-macos)
 - [Windows 源码](https://github.com/KyleBing/wubi86-rime-ime-windows)
+- [Android 源码](https://github.com/KyleBing/wubi86-rime-ime-android)
 
 ## iOS
 
 还在开发，暂不能下载。说明见 [iOS](/ios)。
-
-## Android
-
-还在开发，暂不能下载。说明见 [Android](/android)。

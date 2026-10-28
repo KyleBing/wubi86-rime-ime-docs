@@ -4,7 +4,7 @@ iOS 版还在开发，目前不能下载，App Store 上也还没有。
 
 下面是计划中的做法：仿系统键盘的五笔，键盘扩展里跑同一套 `wubi86_jidian`。键帽、预览气泡、点击音和触感按系统键盘来。候选在键盘上方横排，点按上屏。造词和自动同步与 Mac 共用账号，同步范围与操作见 [词库与同步](/guide/lexicon)，其它共性见 [痛点解决](/pain)。
 
-<TypingDemo variant="ios" />
+<TypingDemo variant="ios" scene="type" />
 
 ## iOS 上的做法
 

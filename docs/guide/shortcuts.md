@@ -19,11 +19,17 @@
 
 同编码下的词可以改顺序。macOS 和 Windows 用快捷键打开，iOS 和 Android 在输入界面有对应按钮。各端都可以拖动排序。
 
+<TypingDemo scene="rank" />
+
 | 系统 | 入口 |
 | --- | --- |
 | macOS | 默认 ⌃⌥0，可在「输入习惯」页的「排序」里修改 |
 | Windows | 默认 Ctrl + Alt + 0，可在「输入习惯」页的「排序」里修改 |
 | iOS、Android | 输入界面上的对应按钮 |
+
+iOS 上排序盖在键区上，候选栏右侧会出「排序」按钮：
+
+<TypingDemo variant="ios" scene="rank" />
 
 ## 四码唯一、空码清空与回车清码
 

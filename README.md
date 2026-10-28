@@ -8,7 +8,7 @@
 | `docs/macos.md` | macOS 输入法与版本说明 |
 | `docs/ios.md` | iOS 键盘 |
 | `docs/windows.md` | Windows 后续版本 |
-| `docs/android.md` | Android 可能会做 |
+| `docs/android.md` | Android 输入法与版本说明 |
 | `docs/pain.md` | 各端都会有的造词、同步、标点和日期 |
 | `docs/guide/` | 从 macOS 输入法仓库迁来的使用说明（含 [注册与付费](docs/guide/register.md)） |
 

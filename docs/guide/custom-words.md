@@ -27,9 +27,15 @@ Mac 上用快捷键打开造词窗口，iOS 在键盘里造。打开方式和按
 
 添加后词库会重新加载，马上可以打出来。
 
+## iOS
+
+键盘候选栏右侧点「造词」。进入编码 → 词条，并列出同码。
+
+<TypingDemo variant="ios" scene="add" />
+
 ## macOS
 
-<Figure src="/figures/quick-add.svg" alt="添加自造词窗口：词条、编码、权重、分组，以及同编码词条" caption="macOS 造词窗口不抢当前软件的前台。词条框里可以继续用五笔组字。" />
+<TypingDemo scene="add" />
 
 默认快捷键是 **Control + Option + N**。在「设置 → 按键 → 造词」里点一下按钮，再按下新的组合键即可更换。至少要带一个修饰键。改完立刻生效，不用重新部署。
 
